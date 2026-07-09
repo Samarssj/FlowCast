@@ -4390,7 +4390,7 @@ predicted_length = round(predicted_length)
 predicted_next_start = last_start + timedelta(days=predicted_length)
 
 st.markdown('<div class="card">', unsafe_allow_html=True)
-st.markdown('<div class="section-label">🔮 Prediction</div>', unsafe_allow_html=True)
+st.markdown('<div class="section-label">👩‍🦰 Prediction</div>', unsafe_allow_html=True)
 
 col1, col2 = st.columns(2)
 with col1:
