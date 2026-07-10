@@ -1,4 +1,4 @@
-# 🌸 Period Predictor
+# 🌸 FlowCast
 
 A single-file Streamlit app that predicts your next period start date using a machine learning model trained on real menstrual cycle data.
 
